@@ -5,6 +5,7 @@ const Skills = () => {
     const skills = {
         "Programming": ["Java", "Python", "C++"],
         "Web Development": ["HTML", "CSS", "JavaScript", "PHP", "Django", "Node.js"],
+        
         "Databases": ["MySQL", "PostgreSQL", "MongoDB"],
         "Android Apps Developement": ["Flutter", "Kotlin"],
         "Cloud Computing": ["Google Cloud", "AWS"],
